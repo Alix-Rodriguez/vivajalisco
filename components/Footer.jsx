@@ -39,11 +39,7 @@ const Footer = () => {
           </Link>
         </div>
       </div>
-      <div className="bg-white text-black absolute w-full text-center bottom-0 text-[12px] py-2">
-        <p className="self-center ">
-          Site by art <strong>Creativos Asociados</strong> | D'MNT
-        </p>
-      </div>
+     
     </div>
   );
 };
