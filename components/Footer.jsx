@@ -7,13 +7,13 @@ const Footer = () => {
   return (
     <div className="h-screen lg:h-[30vh] relative grid lg:grid-cols-3 w-full bg-[#67BFB1] text-white items-center justify-items-center">
       <div className="grid content-center lg:justify-items-start justify-items-center">
-        <p className=" text-[1.4rem] lg:text-center leading-none font-[100]">1715 228th St SE UNIT 102 <br /> Bothell, WA 98021</p>
-        <p className="font-[800] text-[2rem] lg:text-[2.5rem]">(425)481-3931</p>
+        <p className=" text-[1.4rem] lg:text-center leading-none font-[100]">xxxx xxxxx xx xx xxxx xxx <br /> xxxxxxx, xx xxxxx</p>
+        <p className="font-[800] text-[2rem] lg:text-[2rem] 2xl:text-[2.5rem]">(xxx)xxx-xxxx</p>
       </div>
       <div className="text-center flex flex-col lg:flex-row items-center lg:text-left gap-4">
-        <h2 className="uppercase lg:text-right text-center font-[Anton-Regular] text-[4rem] leading-none">
-          Hours of
-          <br /> operation
+        <h2 className="uppercase lg:text-right text-center font-[Anton-Regular] lg:text-[2rem] text-[4rem] leading-none">
+          xxxxx xx
+          <br /> xxxxxxxxx
         </h2>
         <ul className="text-[1.3rem] ">
           <li className="font-[700]">Monday through Saturday</li>

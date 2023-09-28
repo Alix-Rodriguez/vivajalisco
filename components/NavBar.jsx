@@ -43,7 +43,7 @@ const Navbar = () => {
       style={{ backgroundColor: `${color}` }}
       className="fixed uppercase left-0 top-0 w-full z-[50] ease-in duration-300 items-center"
     >
-      <div className="navbar lg:max-w-[50%] m-auto flex justify-between lg:justify-center items-center  p-4 text-white font-[Anton-Regular]">
+      <div className="navbar  m-auto flex justify-between lg:justify-center items-center  p-4 text-white font-[Anton-Regular]">
 
       <Image
       className="sm:hidden"
