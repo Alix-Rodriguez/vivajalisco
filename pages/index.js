@@ -8,10 +8,18 @@ import Menus from "../components/Menus";
 import Footer from "../components/Footer";
 import Gallery from "../components/Gallery";
 import Image from "next/image";
+import Head from "next/head";
 
 export default function Home() {
   return (
     <div>
+
+      <Head>
+        <title>Start Tech - development</title>
+        <link rel="icon" href="/img/logo7.png" />
+        <meta name="description" content="Desarrollo web Diseño Publicidad Marketing" />
+      </Head>
+
       <NavBar />
       <section
         id="about"
