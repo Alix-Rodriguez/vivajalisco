@@ -15,7 +15,7 @@ export default function Home() {
     <div>
 
       <Head>
-        <title>Start Tech - development</title>
+        <title>VivaJalisco</title>
         <link rel="icon" href="/img/logo7.png" />
         <meta name="description" content="Desarrollo web Diseño Publicidad Marketing" />
       </Head>
